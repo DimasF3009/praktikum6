@@ -39,4 +39,19 @@ Apabila kita menginput 'u' maka akan ada keterangan untuk mengubah data dan kita
 ![pc14](https://user-images.githubusercontent.com/115356128/204160860-aa305906-6f1a-46bc-8554-5ee6a2b265fb.png)
 Apabila kita menginput 'h' maka kita akan diminta menginput nama yang akan dihapus. Jika nama ada di dalam dictionary, maka system akan menghapus keys/nama tersebut beserta valuesnya pada statement del Data[nama]
 
+### 6. Membuat syntax untuk mencari data
+![pc15](https://user-images.githubusercontent.com/115356128/204160927-4b8db567-d1ed-4e7c-94b2-cda08bcd2a7a.png)
+Apabila kita menginputkan 'c' maka kita akan diminta untuk memasukkan nama yang akan dicari. Apabila nama yang dicari ada di dalam dictionary maka outputnya akan menampilkan data dari nama tersebut.
+
+### 7. Membuat syntax untuk melihat atau menampilkan data.
+![pc16](https://user-images.githubusercontent.com/115356128/204160981-4f6fa7d5-e3c2-47c4-99ea-7e2aa29bcb83.png)
+Apabila kita menginput 'l' maka sistem akan menampilkan data - data yang sudah kita masukkan. Jika kita belum memasukkan data maka outputnya menjadi "TIDAK ADA DATA". 
+
+### 8. Syntax untuk menghentikan perulangan.
+![pc17](https://user-images.githubusercontent.com/115356128/204161026-fe48006d-afe7-434e-95fe-cd4dae2b39f3.png)
+Apabila kita menginput 'k' maka program akan langsung berhenti.
+
+### 9. Code program
+![pc18](https://user-images.githubusercontent.com/115356128/204161061-acc74a84-5d1f-4741-a87b-7b3ba8ddf808.png)
+
 
