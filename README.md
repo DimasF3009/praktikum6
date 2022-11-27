@@ -16,3 +16,7 @@
 ![pc6](https://user-images.githubusercontent.com/115356128/204159704-eda0790a-f656-4f5e-b8cc-5bbc9bfb6f5a.png)
 ### 7. Hapus kontak Dina.
 ![pc8](https://user-images.githubusercontent.com/115356128/204159724-7790e5dd-4221-4bf7-91c2-4d347e6c2581.png)
+### Output
+![pc9](https://user-images.githubusercontent.com/115356128/204159853-24b6c092-ab6f-47d8-a534-d6a8635fd1ce.png)
+
+
