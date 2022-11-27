@@ -49,6 +49,7 @@ Apabila kita menginput 'l' maka sistem akan menampilkan data - data yang sudah k
 
 ### 8. Syntax untuk menghentikan perulangan.
 ![pc17](https://user-images.githubusercontent.com/115356128/204161026-fe48006d-afe7-434e-95fe-cd4dae2b39f3.png)
+
 Apabila kita menginput 'k' maka program akan langsung berhenti.
 
 ### 9. Code program
