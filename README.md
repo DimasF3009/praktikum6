@@ -20,3 +20,17 @@
 ![pc9](https://user-images.githubusercontent.com/115356128/204159853-24b6c092-ab6f-47d8-a534-d6a8635fd1ce.png)
 
 
+# Tugas Praktikum
+## Daftar Nilai Mahasiswa Menggunakan Dictionary
+### 1. Pertama kita membuat sebuah dictionary kosong yang nantinya akan diinputkan data ketika program dijalankan.
+![pc10](https://user-images.githubusercontent.com/115356128/204160603-125c4b4b-7637-4c07-b15a-786380835606.png)
+### 2. Lalu kita membuat kondisi perulangan dan sebuah keterangan untuk pilihan menu yang akan menjalankan program
+![pc11](https://user-images.githubusercontent.com/115356128/204160647-1e341bd9-a16b-4e46-919a-b7492e77289e.png)
+### 3. Membuat syntax untuk menambahkan data.
+![pc12](https://user-images.githubusercontent.com/115356128/204160687-ee9d2e3b-683c-4381-8042-240c8c50a6bb.png)
+
+Disini apabila kita menginputkan 't' maka kita akan diminta untuk menginputkan beberapa data. Data yang kita inputkan akan masuk ke dictionary 'Data' yang telah dibuat tadi dengan data 'nama' sebagai keys dan sisanya sebagai values.
+### 4. Membuat syntax untuk mengubah data.
+![pc13](https://user-images.githubusercontent.com/115356128/204160774-af36d599-99ff-45ad-bf42-76576084f258.png)
+
+Apabila kita menginput 'u' maka akan ada keterangan untuk mengubah data dan kita akan diminta untuk menginputkan nama yang mau diubah datanya, apabila nama tidak ada maka outputnya "Nama {} tidak ditemukan". Dimana {} adalah nama/data yang mau kita ubah.
